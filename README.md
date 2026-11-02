@@ -49,11 +49,6 @@ Images and annotations are paired within each subset. For example, `train/images
 
 ## Annotation format
 
-The dataset contains one object class:
-
-| Class ID | Class name |
-| -------- | ---------- |
-| 0        | Eggplant   |
 
 Annotations are provided in YOLO text format. Each image has a corresponding `.txt` file with the same filename stem. Each line describes one annotated fruit:
 
