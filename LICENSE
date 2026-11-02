@@ -1,0 +1,54 @@
+Eggplant Dataset Personal Non-Commercial Use License
+Version 1.0
+
+This is a custom dataset license. It is not a Creative Commons license.
+
+1. Scope
+
+This license applies only to the eggplant images and bounding box
+annotations released as the Eggplant Field Detection Dataset. It does not
+license or grant access to model source code, model weights, or the
+associated manuscript.
+
+2. Permitted use
+
+Individuals may download, copy, analyze, and modify the dataset for their
+own personal, non-commercial learning, research, and evaluation, subject
+to the attribution requirements below. Reporting non-commercial research
+results based on such permitted use is allowed with attribution.
+
+This license does not automatically authorize use on behalf of an
+organization or institution. Any use outside the permitted scope,
+including commercial use, requires prior written permission from the
+dataset rights holder. Permission requests may be sent to the contact
+address below.
+
+3. Attribution and modifications
+
+When using the dataset or reporting results based on it, acknowledge the Eggplant Field Detection Dataset and identify its Zenodo DOI or original record URL and the release version used. Retain any supplied creator credits,
+copyright notices, and this license notice. Clearly identify any changes
+to the images, annotations, or dataset partition. Do not imply endorsement
+by the dataset creators.
+
+4. Redistribution
+
+Individuals may share copies of the dataset, including modified copies,
+for the personal, non-commercial purposes permitted by this license only
+if this license and the required attribution accompany those copies.
+Recipients receive no broader permission than is granted by this license.
+
+5. Disclaimer and reserved rights
+
+The dataset is provided as is, without warranties of accuracy,
+completeness, fitness for a particular purpose, or non-infringement.
+To the extent permitted by applicable law, the dataset provider is not
+liable for losses arising from its use.
+
+All rights not expressly granted are reserved. This license does not
+limit rights available independently under applicable law or mandatory
+rights granted through the hosting platform's terms.
+
+6. Contact
+
+Dataset title: Eggplant Field Detection Dataset
+Contact: zhuangheng0110@163.com
